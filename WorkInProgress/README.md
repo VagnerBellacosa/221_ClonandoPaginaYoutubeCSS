@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Clonando a Página do Youtube com CSS](https://web.dio.me/lab/clonando-a-pagina-do-youtube-com-css/learning/86b79119-f696-4127-b1ae-298979400858)[Entendendo o Desafio](https://web.dio.me/lab/clonando-a-pagina-do-youtube-com-css/learning/91b4e191-a60e-43e2-a1af-dae6774e7261)
+- [Clonando a Página do Youtube com CSS](https://web.dio.me/lab/clonando-a-pagina-do-youtube-com-css/learning/86b79119-f696-4127-b1ae-298979400858)
+- [Entendendo o Desafio](https://web.dio.me/lab/clonando-a-pagina-do-youtube-com-css/learning/91b4e191-a60e-43e2-a1af-dae6774e7261)
 
 
 
